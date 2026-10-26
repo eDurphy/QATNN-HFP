@@ -1,6 +1,6 @@
 # QATNN-HFP — Paper README
 
-Reader's guide to **QATNN-HFP-EN.md** / **QATNN-HFP-EN.docx**: *Quantized Adaptive Trainer Neural Network – Hybrid Fixed Point* — a ternary, integer-only training and inference regime in formal academic English (translated from Italian).
+Reader's guide to **QATNN-HFP-EN.pdf**: *Quantized Adaptive Trainer Neural Network – Hybrid Fixed Point* — a ternary, integer-only training and inference regime in formal academic English (translated from Italian).
 
 ## What this paper is
 
@@ -12,7 +12,7 @@ Reader's guide to **QATNN-HFP-EN.md** / **QATNN-HFP-EN.docx**: *Quantized Adapti
 
 ## File
 
-- `QATNN-HFP-EN.docx` — 1:1 Word file, 196 paragraphs in original order, same Title/Heading styles, bold/italic/code emphasis, 182 Office-Math equations byte-identical, both figures, 38 hyperlinks, 34 bookmarks, headers/footers intact.
+- `QATNN-HFP-EN.pdf` — PDF file, 196 paragraphs in original order, same Title/Heading styles, bold/italic/code emphasis, 182 Office-Math equations byte-identical, both figures, 38 hyperlinks, 34 bookmarks, headers/footers intact.
 
 ## How to read it (10 sections)
 
@@ -38,6 +38,6 @@ Reader's guide to **QATNN-HFP-EN.md** / **QATNN-HFP-EN.docx**: *Quantized Adapti
 
 ## Cite
 
-QATNN-HFP (EN). *Quantized Adaptive Trainer Neural Network – Hybrid Fixed Point.* English translation of author's Italian manuscript. File: `QATNN-HFP-EN.docx`.
+QATNN-HFP (EN). *Quantized Adaptive Trainer Neural Network – Hybrid Fixed Point.* English translation of author's Italian manuscript. File: `QATNN-HFP-EN.pdf`.
 
 Key external refs: Ma et al. BitNet b1.58 (arXiv:2402.17764), BitNet 2B4T (arXiv:2504.12285), Peng et al. RWKV (arXiv:2305.13048), Jacob et al. integer-arithmetic-only inference (arXiv:1712.05877), Sennrich et al. BPE (arXiv:1508.07909), Elfwing et al. SiLU (arXiv:1702.03118).
