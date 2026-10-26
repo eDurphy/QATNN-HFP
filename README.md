@@ -34,7 +34,7 @@ Reader's guide to **QATNN-HFP-EN.pdf**: *Quantized Adaptive Trainer Neural Netwo
 - Package check: identical paragraph order/styles, media, relationships, links and bookmarks vs source.
 - Reachability table (§7) is analytic derivation from the stated update rule, not multi-seed measured means — flagged as future work in the paper.
 - BITCOS ≥51%-zero probe (`qat_fit_bitcos`) exists; dynamic format switch not implemented.
-- Italian normative companion (code-aligned r1): `QATNN-HFP-r1.md`.
+- Italian normative companion (code-aligned r1): `QATNN-HFP-r1.md` rewritten in English.
 
 ## Cite
 
